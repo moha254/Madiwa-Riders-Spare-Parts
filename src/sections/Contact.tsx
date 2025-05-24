@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-800">Our Location</h4>
-                    <p className="text-gray-600 mt-1">123 Motorcycle Lane, Nairobi, Kenya</p>
+                    <p className="text-gray-600 mt-1">Section 3, SunCity, Nairobi, Kenya</p>
                   </div>
                 </div>
                 
@@ -35,7 +35,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-800">Phone</h4>
-                    <p className="text-gray-600 mt-1">+254 XXX XXX XXX</p>
+                    <p className="text-gray-600 mt-1">+254746474262</p>
                     <p className="text-sm text-gray-500 mt-1">Call or WhatsApp</p>
                   </div>
                 </div>
@@ -140,15 +140,7 @@ const Contact: React.FC = () => {
           </div>
         </div>
         
-        {/* Map Section */}
-        <div className="mt-16">
-          <div className="rounded-lg overflow-hidden shadow-md h-96 w-full">
-            {/* This is a placeholder for a Google Map. In a real application, you would embed an actual map here */}
-            <div className="w-full h-full bg-gray-300 flex items-center justify-center">
-              <p className="text-gray-600">Map placeholder - Google Maps would be embedded here</p>
-            </div>
-          </div>
-        </div>
+      
       </div>
     </section>
   );

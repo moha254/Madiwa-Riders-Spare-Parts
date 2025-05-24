@@ -62,7 +62,7 @@ const HowToOrder: React.FC = () => {
             Need help finding the right part for your motorcycle model?
           </p>
           <p className="mt-2 text-lg font-medium text-blue-800">
-            Call us at <a href="tel:+254XXXXXXXX" className="underline">+254 XXX XXX XXX</a>
+            Call us at <a href="tel:+254746474262" className="underline">+254746474262</a>
           </p>
         </div>
       </div>
